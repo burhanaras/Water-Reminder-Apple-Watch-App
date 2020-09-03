@@ -31,3 +31,4 @@ Since this project has zero dependencies on external frameworks, all you need is
 ![App Preview](drink-water-app.gif)
 
 ![Screenshot]("https://github.com/burhanaras/Water-Reminder-Apple-Watch-App/blob/master/Waterminder/Screenshots/waterreminder0.png")
+![Alt text](/Waterminder/Screenshots/waterreminder0.png?raw=true "Optional Title")
