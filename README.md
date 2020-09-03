@@ -1,4 +1,4 @@
-# Waterminder
+# Water Reminder Apple Watch App
 
 ###### A simple Apple Watch app to remind you to drink water. Built with [SwiftUI](https://developer.apple.com/xcode/swiftui) 
 
@@ -29,3 +29,5 @@ Since this project has zero dependencies on external frameworks, all you need is
 ### ⌚ Preview
 
 ![App Preview](drink-water-app.gif)
+
+![Screenshot]("https://github.com/burhanaras/Water-Reminder-Apple-Watch-App/blob/master/Waterminder/Screenshots/waterreminder0.png")
