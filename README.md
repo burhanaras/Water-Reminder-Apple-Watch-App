@@ -28,8 +28,4 @@ Since this project has zero dependencies on external frameworks, all you need is
 
 ### ⌚ Preview
 
-![Screenshot](https://www.linkpicture.com/q/waterreminder0.png)
-![Screenshot](https://www.linkpicture.com/q/waterreminder1_1.png)
-![Screenshot](https://www.linkpicture.com/q/waterreminder2.png)
-![Screenshot](https://www.linkpicture.com/q/waterreminder3.png)
-![Screenshot](https://www.linkpicture.com/q/waterreminder4.png)
+![Screenshot](https://imgur.com/MUAXpWr)
